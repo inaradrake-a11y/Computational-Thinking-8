@@ -1,4 +1,12 @@
 CNIF = "Felix"
 print("There is a black cat")
-if CNIF == "what is their name?": 
-    print("His name is Felix")
+input("") 
+print("His name is Felix")
+input("")
+print("I know.")
+input("")
+print("Felix wonders around the dark night.")
+input("")
+print("He's in a city, near the dock.")
+input("")
+print("looking for fish to eat.")
