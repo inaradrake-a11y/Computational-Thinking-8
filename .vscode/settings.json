@@ -38,4 +38,5 @@
     "chat.implicitContext.suggestedContext": false,
     "chat.sendElementsToChat.enabled": false,
     "chat.useCloudButtonV2": false,
+    "python.REPL.enableREPLSmartSend": false,
 }
